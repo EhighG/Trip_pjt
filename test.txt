@@ -1,3 +1,5 @@
 base
 
+[squashTest]
 
+commit 1
